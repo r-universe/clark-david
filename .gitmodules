@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "icdpicr2"]
 	path = icdpicr2
-	url = https://github.com/cran/icdpicr2
+	url = https://github.com/clark-david/icdpicr2
